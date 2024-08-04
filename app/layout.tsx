@@ -10,7 +10,7 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Pizza Next JS | Главная страница",
+  title: "Chuprikov Pizza | Главная страница",
   description: "Pet project comebackmagistr github",
 };
 
