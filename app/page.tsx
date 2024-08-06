@@ -64,7 +64,7 @@ export default function Home() {
                     id: 5,
                     name: "Сырная 🌱👶",
                     imageUrl:
-                      '"https://media.dodostatic.net/image/r:292x292/11EE7D610D2925109AB2E1C92CC5383C.avif"',
+                      "https://media.dodostatic.net/image/r:292x292/11EE7D610D2925109AB2E1C92CC5383C.avif",
                     price: 299,
                     categoryId: 3,
                     items: [{price: 299}],
